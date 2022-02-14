@@ -1,0 +1,71 @@
+.form-inline {
+    margin-left: auto;
+    margin-right: 5px;
+}
+
+.bg-img {
+    background-image: url("background\ img.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 700px;
+}
+
+.color {
+    color: aliceblue;
+    padding-top: 200px;
+    padding-left: 90px;
+}
+
+.text {
+    font-size: 70px;
+}
+
+.txt {
+    font-size: 25px;
+}
+
+.heading {
+    padding-top: 10px;
+    color: rgb(252, 253, 253);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.small {
+    font-style: normal;
+    font-size: 20px;
+    color: beige;
+    text-align: center;
+}
+
+img {
+    height: 200px;
+    width: 135px;
+}
+
+.background-color {
+    background-image: linear-gradient(to right, rgb(131, 2, 62), rgb(182, 32, 57), rgb(233, 48, 48));
+}
+
+.footer {
+    background-color: black;
+    height: 50px;
+    padding-top: 12px;
+    color: beige;
+}
+
+#card {
+    transition: .3s transform cubic-bezier(.155, 1.105, .295, 1.12), .3s box-shadow, .3s -webkit-transform cubic-bezier(.155, 1.105, .295, 1.12);
+    cursor: pointer;
+}
+
+#card:hover {
+    transform: scale(1);
+    box-shadow: 10px 10px 5px 5px grey;
+}
+
+.end {
+    padding-bottom: 30px;
+}
