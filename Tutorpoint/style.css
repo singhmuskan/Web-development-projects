@@ -1,0 +1,415 @@
+    .header {
+        background-image: url(background.jpg);
+        height: 800px;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    
+    .navbar {
+        padding-top: 30px;
+    }
+    
+    .login {
+        margin-right: 40px;
+        margin-left: auto;
+        width: 160px;
+        border-radius: 0;
+    }
+    
+    p {
+        color: white;
+        text-align: center;
+        font-size: 55px;
+    }
+    
+    .box {
+        height: 40px;
+        width: 300px;
+        margin-left: 20px;
+    }
+    
+    .email {
+        margin-left: 220px;
+    }
+    
+    .signup {
+        height: 40px;
+        width: 250px;
+        margin-left: 20px;
+        border-radius: 0;
+    }
+    
+    .sectn {
+        margin-top: 50px;
+        margin-left: 40px;
+        margin-right: 40px;
+        background-color: rgb(209, 194, 194);
+        padding: 15px;
+    }
+    
+    .boxs {
+        height: 500px;
+    }
+    
+    img {
+        width: 250px;
+        height: 150px;
+    }
+    
+    .card {
+        background-color: rgb(209, 194, 194);
+        border: radius 0;
+        border-color: rgb(209, 194, 194);
+        height: 300px;
+    }
+    
+    .card-body:hover {
+        background-color: rgb(209, 49, 49);
+        display: block;
+        border-color: rgb(209, 49, 49);
+    }
+    
+    .card-body:hover .tit {
+        color: white !important;
+    }
+    
+    .card:hover .tlt {
+        color: white;
+    }
+    
+    .tlt {
+        color: rgb(36, 32, 32);
+        font-family: serif;
+    }
+    
+    .tit {
+        color: rgb(109, 4, 22);
+        font-style: italic;
+        font-family: cursive;
+    }
+    
+    .red-cont {
+        margin-top: 80px;
+        margin-left: 60px;
+        margin-right: 60px;
+        margin-bottom: 80px;
+        height: 300px;
+    }
+    
+    .cors {
+        color: rgb(250, 246, 246);
+        text-align: center;
+        padding-top: 60px;
+        padding-bottom: 20px;
+    }
+    
+    .search {
+        margin-bottom: 60px;
+        margin-top: 60px;
+    }
+    
+    .white-cont {
+        height: 100px;
+        width: 95%;
+        padding-left: 100px;
+        padding-right: 100px;
+        padding-bottom: 10px;
+    }
+    
+    .course {
+        border-radius: 0;
+        border-color: transparent;
+        background-color: rgb(212, 204, 204);
+        height: 40px;
+        width: 260px;
+    }
+    
+    .category {
+        border-radius: 0;
+        border-color: transparent;
+        background-color: rgb(212, 204, 204);
+        height: 40px;
+        margin-left: 30px;
+        width: 260px;
+    }
+    
+    .btn-search {
+        margin-left: 30px;
+        height: 40px;
+        width: 200px;
+        border-radius: 0;
+    }
+    
+    .fom {
+        padding: 30px;
+    }
+    
+    .bg-clr {
+        background-color: yellowgreen;
+    }
+    
+    .text1 {
+        color: gray;
+        font-size: 15px;
+        text-align: start;
+    }
+    
+    .foot {
+        margin-top: 25px;
+        margin-left: 20px;
+        padding-left: 0;
+    }
+    
+    .header1 {
+        background-image: url(bg\ \(1\).jpg);
+        height: 400px;
+    }
+    
+    .fom1 {
+        padding: 80px;
+    }
+    
+    .pnk-cont {
+        margin-left: 70px;
+        margin-right: 70px;
+        height: 200px;
+    }
+    
+    .btn-blk {
+        background-color: black;
+        color: white;
+    }
+    
+    .small-cont {
+        margin-left: 450px;
+        margin-right: 400px;
+        margin-top: 50px;
+        margin-bottom: 1px;
+        width: 400px;
+        height: 40px;
+    }
+    
+    .code {
+        background-color: white;
+        border-radius: 0;
+        border-color: transparent;
+        height: 40px;
+        width: 260px;
+    }
+    
+    .categoryp {
+        border-radius: 0;
+        border-color: transparent;
+        background-color: white;
+        height: 40px;
+        margin-left: 30px;
+        width: 260px;
+    }
+    
+    .crd-head {
+        font-size: 15px;
+        text-align: start;
+    }
+    
+    .list {
+        color: rgb(0, 195, 255);
+    }
+    
+    .big-cont {
+        margin-top: 150px;
+        margin-bottom: 100px;
+    }
+    
+    .boxe {
+        height: fit-content;
+        padding-top: 30px;
+    }
+    
+    .header2 {
+        background-image: url(bg\ \(2\).jpg);
+        height: 400px;
+    }
+    
+    .cont {
+        margin-top: 200px;
+        padding: 20px;
+    }
+    
+    .blog {
+        font-size: 15px;
+        color: rgb(97, 89, 89);
+        padding: 10px;
+        border-right: 1px solid rgb(138, 132, 132);
+    }
+    
+    .bg {
+        height: 30px;
+        width: 30px;
+        border-radius: 50%;
+        margin-left: 10px;
+    }
+    
+    .small-cont1 {
+        margin-left: 560px;
+        margin-right: 400px;
+        margin-top: 50px;
+        margin-bottom: 1px;
+        width: 200px;
+        height: 40px;
+    }
+    
+    .small-cont2 {
+        margin-left: 580px;
+        margin-right: 400px;
+        margin-top: 50px;
+        margin-bottom: 1px;
+        width: 250px;
+        height: 40px;
+    }
+    
+    .rdm {
+        border-radius: 0;
+        margin-top: 20px;
+    }
+    
+    .det {
+        padding-top: 50px;
+        padding-bottom: 20px;
+    }
+    
+    .search-w {
+        width: 200px;
+        height: 35px;
+        padding: 0;
+        border-radius: 0%;
+        border-color: transparent;
+        background-color: rgb(197, 206, 197);
+        margin-right: 0;
+    }
+    
+    .bttn {
+        padding: 0;
+        width: 50px;
+        height: 35px;
+        background-color: rgba(39, 140, 223, 0.774);
+        border: transparent;
+        margin-left: 0;
+    }
+    
+    .title {
+        font-size: 15px;
+        color: rgb(158, 156, 156);
+    }
+    
+    .item {
+        font-size: 15px;
+        text-align: start;
+        margin-top: 30px;
+        padding: 10px;
+    }
+    
+    a {
+        text-decoration: none;
+        color: grey;
+    }
+    
+    a:hover {
+        color: rgb(204, 32, 46);
+        background-color: transparent;
+        text-decoration: none;
+    }
+    
+    .margn {
+        height: fit-content;
+    }
+    
+    .tags {
+        background-color: rgb(207, 41, 69);
+        color: white;
+        font-size: 20px;
+        padding: 10px;
+        margin: 5px;
+        height: fit-content;
+        border-radius: 0;
+    }
+    
+    .tags:hover {
+        background-color: rgb(207, 41, 69);
+        color: white;
+        text-decoration: none;
+    }
+    
+    .header3 {
+        background-image: url(background.jpg);
+        height: 400px;
+    }
+    
+    .wht-cont {
+        height: 700px;
+        margin-top: 200px;
+        margin-bottom: 100px;
+    }
+    
+    .form-cont {
+        height: 700px;
+        width: 700px;
+        margin-left: 70px;
+    }
+    
+    .rht-cont {
+        height: auto;
+        width: 300px;
+        margin-right: 300px;
+    }
+    
+    .bg-wht {
+        height: 500px;
+        width: 600px;
+        margin-top: 50px;
+    }
+    
+    .fm {
+        padding-top: 60px;
+        margin-left: 80px;
+    }
+    
+    .fm1 {
+        height: auto;
+    }
+    
+    .in {
+        height: 50px;
+        width: 400px;
+        margin-top: 25px;
+        background-color: rgb(223, 232, 240);
+        border: transparent;
+        font-style: italic;
+    }
+    
+    .btn1 {
+        margin-top: 25px;
+        height: 35px;
+        width: 150px;
+        border: transparent;
+        border-radius: 0;
+        color: white;
+    }
+    
+    .rht-tlt {
+        margin-top: 30px;
+    }
+    
+    .contact {
+        font-size: 12px;
+        color: rgb(148, 153, 158);
+    }
+    
+    .social {
+        margin-top: 30px;
+        margin-left: 20px;
+        word-spacing: 20px;
+    }
+    
+    .fa1 {
+        color: rgb(7, 157, 226);
+    }
