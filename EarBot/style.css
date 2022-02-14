@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+}
+
+.img {
+    margin-left: 40%;
+}
+
+.imgs {
+    height: 150px;
+    -webkit-transition: -webkit-transform .8s ease-in-out;
+    transition: transform .8s ease-in-out;
+}
+
+.imgs:hover {
+    animation: 1s linear;
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+}
+
+.text {
+    margin-top: 50px;
+}
+
+.colo {
+    color: rgb(173, 171, 171);
+}
+
+.colo:hover {
+    color: white;
+}
+
+.img-caro {
+    height: 500px;
+    width: 100%;
+}
+
+.gallery {
+    width: 450px;
+    height: 300px;
+    margin: 0;
+    padding: 0;
+}
